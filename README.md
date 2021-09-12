@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BrenoCamiloDev/BrenoCamiloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Breno Camilo 👨‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/breno-camilo-321112204/)
+
+### Hellow! 🖖 Welcome to my profile
+---
+My name is Breno Camilo and ...:
+- 😄 I really like to learn
+ - 📚 currently studying at the institution (Estácio)
+ - 📚 Currently studying Node.js/Javascript and React
+ - 🌍 And I also like to travel
